@@ -1,0 +1,26 @@
+[
+    {
+        "name": "red",
+        "color": "#f55"
+    },
+    {
+        "name": "green",
+        "color": "#8f8"
+    },
+    {
+        "name": "blue",
+        "color": "#7bf"
+    },
+    {
+        "name": "yellow",
+        "color": "yellow"
+    },
+    {
+        "name": "orange",
+        "color": "orange"
+    },
+    {
+        "name": "purple",
+        "color": "#c9f"
+    }
+]
